@@ -1,0 +1,25 @@
+body{
+    background-color: #151b29;;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    /* vh-> view port height , 100 view height units */
+}
+button{
+    border: 2px solid;
+    color:#fc9d03;
+    background: none;
+    padding: 10px 20px;
+    transform: scale(2);
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+
+button:hover{
+    border: 2px solid;
+    color:#eaff03;
+    transform: scale(2) translateY(-0.25rem);
+    box-shadow: 0 5px 5px -4px rgba(234, 255, 3);
+    cursor: pointer;
+}
