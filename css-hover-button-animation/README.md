@@ -21,15 +21,11 @@ When hovered, the button changes color, lifts slightly upward, and displays a gl
 ---
 
 ## What I Learned
-How to combine multiple transition properties for smooth animations
-
-Using transform: scale() and translateY() to create 3D-like motion
-
-Adding glowing effects with box-shadow
-
-Centering elements using Flexbox
-
-Designing minimal interactive UI elements using pure CSS
+- How to combine multiple transition properties for smooth animations
+- Using transform: scale() and translateY() to create 3D-like motion
+- Adding glowing effects with box-shadow
+- Centering elements using Flexbox
+- Designing minimal interactive UI elements using pure CSS
 
 ---
 
