@@ -30,3 +30,8 @@ Adding glowing effects with box-shadow
 Centering elements using Flexbox
 
 Designing minimal interactive UI elements using pure CSS
+
+---
+
+## Demo
+<video src="https://github.com/Kjoshi04/mini-projects/issues/1#issue-3567060055" width="400" controls></video>
