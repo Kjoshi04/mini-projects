@@ -34,4 +34,4 @@ Designing minimal interactive UI elements using pure CSS
 ---
 
 ## Demo
-<video src="https://github.com/Kjoshi04/mini-projects/issues/1#issue-3567060055" width="400" controls></video>
+![Image](https://github.com/user-attachments/assets/f1f4b8d2-a2ed-4734-b9f8-74282d90a702)
