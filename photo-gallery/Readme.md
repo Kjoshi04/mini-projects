@@ -5,14 +5,8 @@ When you hover over an image, it **zooms in** while the rest of the images **blu
 
 ---
 
-## Live Demo
-[🔗 View Demo](#) 
-
----
-
-## Preview
-![Demo Screenshot](https://github.com/<your-username>/<your-repo>/assets/demo-preview.gif)
-
+## Demo
+![Image](https://github.com/user-attachments/assets/f6ea8714-340b-48c4-804b-c6428def94eb)
 ---
 
 ## Features
