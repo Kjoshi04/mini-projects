@@ -1,0 +1,26 @@
+img{
+    width:20%;
+    height: 50vh;
+    margin: calc(19%/8);
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width:30%; 
+    margin-left: calc(20%/8);   
+    padding: 0.5em 0 0.5em 0;
+    font-family: "Elms Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 1.5em;
+
+}
+div:hover img{
+    filter: blur(4px);
+}
+div img:hover{
+    transform: scale(1.15);
+    transition: 1s;
+    filter: blur(0);
+}
