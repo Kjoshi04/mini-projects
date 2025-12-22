@@ -21,4 +21,4 @@ When you hover over an image, it **zooms in** while the rest of the images **blu
 Photo-Gallery<br>
 ├── index.html # Main HTML file<br>
 ├── style.css # CSS styles for layout and hover effects<br>
-├── Readme.md # Project documentation
+├── README.md # Project documentation
