@@ -7,8 +7,9 @@ The navigation bar contains a heading and navigation links, and it adapts smooth
 The main goal of this project is to understand Flexbox layout, nested flex containers, and responsive design principles.
 
 ## Preview
-![pitcure1](layoutlargedevice.png)
-![pitcure2](layoutsmalldevice.png)
+<img src="layoutlargedevice.png" width="500" height="200" alt="pitcure1" />
+<img src="layoutsmalldevice.png" width="300" height="400" alt="pitcure2" />
+
 
 ## Technologies Used
 
